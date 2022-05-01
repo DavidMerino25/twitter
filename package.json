@@ -1,0 +1,22 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "Practica 3 Semana 3 Mission NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test":"node --experimental-vm-modules ./node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidMerino25/twitter.git"
+  },
+  "author": "David Merino Pérez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidMerino25/twitter/issues"
+  },
+  "homepage": "https://github.com/DavidMerino25/twitter#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
